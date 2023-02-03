@@ -119,7 +119,7 @@ public class ConsolaOlimpicos
 		String pais = calculadora.paisDeAtleta(nombre_atleta);
 		if (pais != null)
 		{
-			System.out.println("El atleta "+ nombre_atleta + " es del pais " + pais);
+			System.out.println("El atleta "+ nombre_atleta + " es del pais: " + pais);
 		}
 		else
 		{
